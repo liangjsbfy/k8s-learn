@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/heapster-amd64:v1.4.2
+FROM quay.io/brancz/kube-rbac-proxy:v0.2.0
