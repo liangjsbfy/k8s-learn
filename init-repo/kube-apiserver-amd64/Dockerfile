@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.16.0
+FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.2.0
