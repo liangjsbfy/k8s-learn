@@ -1,1 +1,1 @@
-FROM quay.io/coreos/grafana-watcher:v0.0.8
+FROM quay.io/coreos/configmap-reload:v0.0.1
