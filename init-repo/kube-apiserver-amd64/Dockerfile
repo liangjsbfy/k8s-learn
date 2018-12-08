@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.2.0
+FROM quay.io/prometheus/node-exporter:v0.15.2
