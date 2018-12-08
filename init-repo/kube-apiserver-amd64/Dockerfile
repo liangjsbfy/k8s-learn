@@ -1,1 +1,1 @@
-FROM quay.io/coreos/monitoring-grafana:5.0.3
+FROM quay.io/coreos/kube-state-metrics:v1.2.0
