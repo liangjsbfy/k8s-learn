@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.2.0-rc.0
+FROM gcr.io/google_containers/addon-resizer:1.0
