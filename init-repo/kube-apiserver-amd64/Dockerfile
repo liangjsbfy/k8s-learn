@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.18.0
+FROM quay.io/coreos/monitoring-grafana:5.0.3
