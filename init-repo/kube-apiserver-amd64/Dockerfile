@@ -1,1 +1,1 @@
-FROM quay.io/coreos/configmap-reload:v0.0.1
+FROM quay.io/coreos/prometheus-operator:v0.16.0
