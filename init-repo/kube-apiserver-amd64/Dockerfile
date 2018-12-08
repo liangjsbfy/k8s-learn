@@ -1,1 +1,1 @@
-FROM quay.io/fabxc/prometheus_demo_service
+FROM quay.io/coreos/prometheus-operator:v0.16.0
