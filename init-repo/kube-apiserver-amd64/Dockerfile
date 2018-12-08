@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/addon-resizer:1.0
+FROM gcr.io/google_containers/metrics-server-amd64:v0.2.0
