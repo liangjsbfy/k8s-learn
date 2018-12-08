@@ -1,1 +1,1 @@
-FROM grafana/grafana:4.5.2
+FROM quay.io/coreos/grafana-watcher:v0.0.8
