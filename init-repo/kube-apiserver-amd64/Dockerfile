@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.14.0
+FROM k8s.gcr.io/kube-apiserver:v1.13.3
