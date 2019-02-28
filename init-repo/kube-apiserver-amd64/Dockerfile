@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.2.6
+FROM k8s.gcr.io/kube-apiserver:v1.13.3
