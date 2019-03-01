@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM k8s.gcr.io/heapster-amd64:v1.4.2
