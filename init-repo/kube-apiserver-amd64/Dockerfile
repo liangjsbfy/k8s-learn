@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.4.0
+FROM docker.elastic.co/kibana/kibana-oss:6.6.1
