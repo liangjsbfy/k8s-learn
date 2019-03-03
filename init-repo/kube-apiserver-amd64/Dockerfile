@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/addon-resizer-amd64:2.1
+FROM quay.io/prometheus/alertmanager:v0.16.0
