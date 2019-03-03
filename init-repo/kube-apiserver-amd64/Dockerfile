@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.5.0
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.4.0
