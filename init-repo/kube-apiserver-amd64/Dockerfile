@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.29.0
+FROM gcr.io/google-containers/addon-resizer-amd64:2.1
