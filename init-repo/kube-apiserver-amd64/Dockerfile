@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.16.0
+FROM quay.io/coreos/kube-state-metrics:v1.5.0
