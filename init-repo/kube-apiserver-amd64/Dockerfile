@@ -1,1 +1,1 @@
-FROM kubernetesui/dashboard:v2.0.0-beta4
+FROM kubernetesui/metrics-scraper:v1.0.1
