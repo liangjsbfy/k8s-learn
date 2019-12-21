@@ -1,1 +1,1 @@
-FROM kubernetesui/metrics-scraper:v1.0.1
+FROM  k8s.gcr.io/metrics-server-amd64:v0.3.6
