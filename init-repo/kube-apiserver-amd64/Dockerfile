@@ -1,1 +1,1 @@
-FROM  gcr.io/google-containers/defaultbackend:1.4
+FROM  docker.elastic.co/kibana/kibana-oss:6.7.0
