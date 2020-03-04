@@ -1,1 +1,1 @@
-FROM  quay.io/coreos/configmap-reload:v0.0.1
+FROM  grafana/grafana:6.6.1
