@@ -1,1 +1,1 @@
-FROM  grafana/grafana:6.6.1
+FROM  jettech/kube-webhook-certgen:v1.0.0
