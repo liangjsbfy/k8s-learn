@@ -1,1 +1,1 @@
-FROM  k8s.gcr.io/addon-resizer:1.8.7
+FROM  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
