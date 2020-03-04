@@ -1,1 +1,1 @@
-FROM  kiwigrid/k8s-sidecar:0.1.99
+FROM  quay.io/coreos/configmap-reload:v0.0.1
