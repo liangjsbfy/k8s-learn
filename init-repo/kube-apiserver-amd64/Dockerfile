@@ -1,1 +1,1 @@
-FROM  docker.elastic.co/kibana/kibana-oss:6.7.0
+FROM  kiwigrid/k8s-sidecar:0.1.99
