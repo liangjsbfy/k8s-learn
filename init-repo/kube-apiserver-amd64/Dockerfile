@@ -1,1 +1,1 @@
-FROM  traefik:1.7.20
+FROM  elastichq/elasticsearch-hq
