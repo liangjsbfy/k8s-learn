@@ -1,1 +1,1 @@
-FROM  containous/whoami
+FROM  traefik:1.7.20
