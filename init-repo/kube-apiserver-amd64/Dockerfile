@@ -1,1 +1,1 @@
-FROM   quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
+FROM   gcr.io/google_containers/busybox:1.24
