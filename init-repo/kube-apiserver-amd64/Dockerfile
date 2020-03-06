@@ -1,1 +1,1 @@
-FROM  elastichq/elasticsearch-hq
+FROM  jenkins/jenkins:lts
