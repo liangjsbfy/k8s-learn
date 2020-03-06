@@ -1,1 +1,1 @@
-FROM  cnych/jenkins:jnlp
+FROM  cnych/jenkins:jnlp6
