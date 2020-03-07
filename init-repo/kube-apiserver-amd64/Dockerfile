@@ -1,1 +1,1 @@
-FROM  cnych/jenkins:jnlp6
+FROM  jenkins/jenkins:2.121.2
