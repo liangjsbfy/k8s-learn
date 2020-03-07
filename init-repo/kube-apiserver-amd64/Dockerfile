@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-registryctl:v1.7.5
+FROM  goharbor/chartmuseum-photon:v0.8.1-v1.7.5
