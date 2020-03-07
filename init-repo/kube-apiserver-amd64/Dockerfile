@@ -1,1 +1,1 @@
-FROM  sameersbn/redis
+FROM  sameersbn/postgresql:10
