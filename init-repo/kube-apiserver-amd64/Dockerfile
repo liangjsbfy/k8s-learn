@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-jobservice:v1.7.5
+FROM  goharbor/registry-photon:v2.6.2-v1.7.5
