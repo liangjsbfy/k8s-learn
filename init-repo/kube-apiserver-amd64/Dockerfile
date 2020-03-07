@@ -1,1 +1,1 @@
-FROM goharbor/redis-photon:v1.7.5
+FROM  sameersbn/redis
