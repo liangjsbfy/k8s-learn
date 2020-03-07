@@ -1,1 +1,1 @@
-FROM  jenkins/jenkins:2.121.2
+FROM  goharbor/harbor-portal:v1.7.5
