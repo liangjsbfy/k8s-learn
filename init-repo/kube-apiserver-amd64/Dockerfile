@@ -1,1 +1,1 @@
-FROM  sameersbn/gitlab:11.8.1
+FROM  gitlab/gitlab-runner:latest
