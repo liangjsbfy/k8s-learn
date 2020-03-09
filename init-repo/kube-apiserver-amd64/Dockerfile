@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-registryctl:dev
+FROM  goharbor/chartmuseum-photon:dev
