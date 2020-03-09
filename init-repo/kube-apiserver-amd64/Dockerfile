@@ -1,1 +1,1 @@
-FROM  goharbor/trivy-adapter-photon:dev
+FROM  goharbor/notary-server-photon:dev
