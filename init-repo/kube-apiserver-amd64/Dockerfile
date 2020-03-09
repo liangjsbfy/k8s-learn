@@ -1,1 +1,1 @@
-FROM  goharbor/registry-photon:v2.6.2-v1.7.0
+FROM  goharbor/harbor-registryctl:v1.7.0
