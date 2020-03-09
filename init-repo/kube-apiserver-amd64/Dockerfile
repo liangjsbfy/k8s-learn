@@ -1,1 +1,1 @@
-FROM  goharbor/clair-photon:v2.0.7-v1.7.0
+FROM  goharbor/notary-server-photon:v0.6.1-v1.7.0
