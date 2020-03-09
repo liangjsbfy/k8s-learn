@@ -1,1 +1,1 @@
-FROM  goharbor/notary-signer-photon:dev
+FROM  goharbor/harbor-db:dev
