@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-jobservice:dev
+FROM  goharbor/registry-photon:dev
