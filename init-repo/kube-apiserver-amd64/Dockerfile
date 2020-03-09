@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-portal:dev
+FROM  goharbor/harbor-core:dev
