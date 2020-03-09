@@ -1,1 +1,1 @@
-FROM  goharbor/chartmuseum-photon:dev
+FROM  goharbor/clair-photon:dev
