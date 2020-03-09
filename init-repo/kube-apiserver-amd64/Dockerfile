@@ -1,1 +1,1 @@
-FROM  gitlab/gitlab-runner:latest
+FROM  goharbor/harbor-portal:v1.7.0
