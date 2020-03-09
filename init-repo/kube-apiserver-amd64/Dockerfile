@@ -1,1 +1,1 @@
-FROM  goharbor/registry-photon:dev
+FROM  goharbor/harbor-registryctl:dev
