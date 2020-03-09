@@ -1,1 +1,1 @@
-FROM  goharbor/clair-photon:dev
+FROM  goharbor/clair-adapter-photon:dev
