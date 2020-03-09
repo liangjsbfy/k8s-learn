@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-portal:v1.7.0
+FROM  goharbor/nginx-photon:v1.7.0
