@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-db:dev
+FROM  goharbor/redis-photon:dev
