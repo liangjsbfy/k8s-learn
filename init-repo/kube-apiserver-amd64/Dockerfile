@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-core:dev
+FROM  goharbor/harbor-jobservice:dev
