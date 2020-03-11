@@ -1,1 +1,1 @@
-FROM  golang:1.10.3-stretch
+FROM  docker:17.03-dind
