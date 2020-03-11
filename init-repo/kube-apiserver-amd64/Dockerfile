@@ -1,1 +1,1 @@
-FROM  gitlab/gitlab-runner:latest
+FROM  docker:stable-git
