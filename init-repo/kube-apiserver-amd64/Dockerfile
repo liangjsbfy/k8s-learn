@@ -1,1 +1,1 @@
-FROM  goharbor/chartmuseum-photon:v0.9.0-v1.10.1
+FROM  goharbor/clair-photon:v2.1.1-v1.10.1
