@@ -1,1 +1,1 @@
-FROM  sameersbn/postgresql:10
+FROM  gitlab/gitlab-runner:latest
