@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-db:v1.10.1
+FROM  goharbor/redis-photon:v1.10.1
