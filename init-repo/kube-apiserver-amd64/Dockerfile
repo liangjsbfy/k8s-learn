@@ -1,1 +1,2 @@
-FROM  docker:17.03-dind
+FROM cnych/kubectl
+
