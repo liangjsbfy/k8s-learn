@@ -1,2 +1,2 @@
-FROM redis:4
+FROM prom/node-exporter:v0.16.0
 
