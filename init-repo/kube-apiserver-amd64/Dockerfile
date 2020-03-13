@@ -1,2 +1,2 @@
-FROM quay.io/coreos/kube-state-metrics:v1.7.2
+FROM grafana/grafana:5.3.4
 
