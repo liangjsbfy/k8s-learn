@@ -1,2 +1,1 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.4.3
-
+FROM cnych/fluentd-elasticsearch:v2.0.4
