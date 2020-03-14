@@ -1,2 +1,2 @@
-FROM grafana/grafana:5.3.4
+FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.4.3
 
