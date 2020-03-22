@@ -1,1 +1,1 @@
-FROM cnych/fluentd-elasticsearch:v2.0.4
+FROM osixia/openldap:1.1.8
