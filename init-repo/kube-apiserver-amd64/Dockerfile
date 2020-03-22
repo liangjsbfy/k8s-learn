@@ -1,1 +1,1 @@
-FROM osixia/openldap:1.1.8
+FROM osixia/phpldapadmin:0.9.0
