@@ -1,1 +1,1 @@
-FROM jenkinszh/jenkins-zh:lts
+FROM jenkins/jnlp-slave:alpiine
