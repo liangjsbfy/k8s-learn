@@ -1,1 +1,1 @@
-FROM docker.io/drone/agent:1.6.2
+FROM docker.io/drone/drone:1.6.5
