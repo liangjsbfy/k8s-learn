@@ -1,1 +1,1 @@
-FROM docker.io/drone/drone:1.6.5
+FROM docker.io/library/docker:18.06.1-ce-dind
