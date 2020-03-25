@@ -1,1 +1,1 @@
-FROM golang:latest
+FROM plugins/docker
