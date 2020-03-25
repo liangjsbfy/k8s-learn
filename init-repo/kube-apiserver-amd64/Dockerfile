@@ -1,1 +1,1 @@
-FROM plugins/docker
+FROM alpine
