@@ -1,1 +1,1 @@
-FROM cnych/kubectl
+FROM mojo-webqq
