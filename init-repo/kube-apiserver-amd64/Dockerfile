@@ -1,1 +1,1 @@
-FROM alpine:3.6
+FROM sjdy521/mojo-webqq
