@@ -1,1 +1,1 @@
-FROM node:12.16.1-alpine
+FROM nginx:1.17.0-alpine
