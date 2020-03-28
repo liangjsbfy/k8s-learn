@@ -1,1 +1,1 @@
-FROM mojo-webqq
+FROM alpine:3.6
