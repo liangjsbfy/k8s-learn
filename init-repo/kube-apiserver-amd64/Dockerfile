@@ -1,1 +1,1 @@
-FROM sonatype/nexus3:3.20.1
+FROM docker.io/istio/kubectl:1.5.1
