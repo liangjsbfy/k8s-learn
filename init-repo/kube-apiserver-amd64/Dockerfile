@@ -1,1 +1,1 @@
-FROM docker.io/istio/galley:1.5.1
+FROM docker.io/istio/sidecar_injector:1.5.1
