@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.5.1
+FROM docker.io/istio/mixer:1.5.1
