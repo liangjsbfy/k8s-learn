@@ -1,1 +1,1 @@
-FROM docker.io/istio/kubectl:1.5.1
+FROM docker.io/istio/citadel:1.5.1
