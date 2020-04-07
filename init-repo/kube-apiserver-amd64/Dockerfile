@@ -1,1 +1,1 @@
-FROM governmentpaas/curl-ssl
+FROM quay.io/kiali/kiali:v1.9
