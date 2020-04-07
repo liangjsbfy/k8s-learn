@@ -1,1 +1,1 @@
-FROM docker.io/kennethreitz/httpbin
+FROM governmentpaas/curl-ssl
