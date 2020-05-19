@@ -1,1 +1,1 @@
-FROM quay.io/kiali/kiali:v1.9
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
