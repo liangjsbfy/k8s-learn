@@ -1,1 +1,1 @@
-FROM confluentinc/cp-enterprise-control-center:6.0.1
+FROM confluentinc/cp-kafka-rest:6.0.1
