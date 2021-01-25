@@ -1,1 +1,1 @@
-FROM confluentinc/cp-kafka-rest:6.0.1
+FROM apache/superset:latest-dev
