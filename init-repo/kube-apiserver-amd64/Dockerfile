@@ -1,1 +1,1 @@
-FROM apache/superset:latest-dev
+FROM grafana/loki-docker-driver:latest
