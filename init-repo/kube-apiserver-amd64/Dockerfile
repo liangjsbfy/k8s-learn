@@ -1,1 +1,1 @@
-FROM grafana/loki-docker-driver:latest
+FROM mongo:4.2.12
