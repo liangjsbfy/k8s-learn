@@ -1,1 +1,1 @@
-FROM mongo:4.2.12
+FROM Back-off pulling image "gcr.io/kubeflow-images-public/ingress-setup:latest
