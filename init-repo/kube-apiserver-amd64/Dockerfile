@@ -1,1 +1,1 @@
-FROM  apache/superset
+FROM  growthbook/growthbook:latest
