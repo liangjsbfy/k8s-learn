@@ -1,1 +1,1 @@
-FROM  growthbook/growthbook:latest
+FROM  gcr.io/kubernetes-helm/tiller:v2.16.1
