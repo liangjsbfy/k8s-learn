@@ -1,1 +1,1 @@
-FROM  scrapinghub/splash
+FROM scrapinghub/splash
