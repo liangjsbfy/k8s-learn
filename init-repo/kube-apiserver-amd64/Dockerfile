@@ -1,1 +1,1 @@
-FROM  tikazyq/crawlab:latest
+FROM  scrapinghub/splash
