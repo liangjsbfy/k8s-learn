@@ -1,1 +1,1 @@
-FROM scrapinghub/splash
+FROM redash/redash:8.0.0.b32245
