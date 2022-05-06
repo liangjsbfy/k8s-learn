@@ -1,1 +1,1 @@
-FROM redash/redash:8.0.0.b32245
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.2
