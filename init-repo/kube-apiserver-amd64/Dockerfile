@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.2
+FROM openmetadata/server:0.10.0
