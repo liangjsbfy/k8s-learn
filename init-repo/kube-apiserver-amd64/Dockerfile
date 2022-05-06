@@ -1,1 +1,1 @@
-FROM openmetadata/server:0.10.0
+FROM openmetadata/ingestion:0.10.0
