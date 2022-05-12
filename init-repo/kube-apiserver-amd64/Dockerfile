@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:8.1.2
+FROM docker.elastic.co/kibana/kibana:8.1.2
