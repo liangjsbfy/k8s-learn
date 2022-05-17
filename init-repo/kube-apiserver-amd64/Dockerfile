@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana:8.1.2
+FROM bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
