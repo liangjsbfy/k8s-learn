@@ -1,1 +1,1 @@
-FROM bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+FROM bde2020/hive:2.3.2-postgresql-metastore
