@@ -1,1 +1,1 @@
-FROM postgres:12.4
+FROM ghcr.io/logchimp/logchimp
