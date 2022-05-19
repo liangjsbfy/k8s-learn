@@ -1,1 +1,1 @@
-FROM elasticsearch:7.3.2
+FROM postgres:14
