@@ -1,1 +1,1 @@
-FROM ghcr.io/logchimp/logchimp
+FROM nextcloud:21.0.9
