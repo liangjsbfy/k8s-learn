@@ -1,1 +1,1 @@
-FROM pimcore/pimcore:PHP8.0-fpm
+FROM pimcore/pimcore:PHP8.0-fpm-debug
