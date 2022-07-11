@@ -1,1 +1,1 @@
-FROM pimcore/pimcore:PHP8.0-fpm-debug
+FROM pimcore/pimcore:supervisord
