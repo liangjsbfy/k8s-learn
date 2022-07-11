@@ -1,1 +1,1 @@
-FROM nextcloud:21.0.9
+FROM pimcore/pimcore:PHP8.0-fpm
