@@ -1,1 +1,1 @@
-FROM akeneo/node:14
+FROM selenium/standalone-chrome-debug:3.141.59
