@@ -1,1 +1,1 @@
-FROM selenium/standalone-chrome-debug:3.141.59
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.16.2
