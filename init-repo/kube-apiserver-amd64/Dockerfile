@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.16.2
+FROM blackfire/blackfire:2
