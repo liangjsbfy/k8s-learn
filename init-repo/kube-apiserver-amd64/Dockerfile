@@ -1,1 +1,1 @@
-FROM httpd:2.4
+FROM mysql:8.0.26
