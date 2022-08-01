@@ -1,1 +1,1 @@
-FROM akeneo/pim-php-dev:6.0
+FROM akeneo/node:14
