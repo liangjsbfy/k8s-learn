@@ -1,1 +1,1 @@
-FROM blackfire/blackfire:2
+FROM google/cloud-sdk:331.0.0
