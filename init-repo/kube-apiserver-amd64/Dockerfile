@@ -1,1 +1,1 @@
-FROM apache/apisix:2.15.0-alpine
+FROM registry:2.4.1
