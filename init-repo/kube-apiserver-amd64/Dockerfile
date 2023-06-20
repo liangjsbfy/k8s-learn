@@ -1,1 +1,1 @@
-FROM rancher/mirrored-pause:3.6
+FROM adoptopenjdk:11-jre-openj9
