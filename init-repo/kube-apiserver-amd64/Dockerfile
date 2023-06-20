@@ -1,1 +1,1 @@
-FROM adoptopenjdk:11-jre-openj9
+FROM nginx:alpine3.17
