@@ -1,1 +1,3 @@
-FROM docker.io/bitnami/mysql:8.0.33-debian-11-r28
+FROM docker.io/bitnami/postgresql:14
+USER root
+RUN apt-get update && apt-get install postgresql-14-wal2json
