@@ -1,1 +1,1 @@
-FROM gcr.io/kubecost1/frontend:prod-2.0.2
+FROM gcr.io/kubecost1/kubecost-modeling:v0.1.2
