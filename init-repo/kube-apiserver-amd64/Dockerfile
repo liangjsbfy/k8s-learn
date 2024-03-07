@@ -1,1 +1,1 @@
-FROM gcr.io/kubecost1/kubecost-modeling:v0.1.2
+FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
